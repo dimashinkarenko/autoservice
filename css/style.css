@@ -902,6 +902,11 @@ a {
     margin-bottom: 25px;
   }
 
+  .hero__header {
+    padding-top: 30px;
+    margin-bottom: 40px;
+  }
+
   .main-hero__title {
     font-size: 22px;
   }
